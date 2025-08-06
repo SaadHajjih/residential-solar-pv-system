@@ -15,7 +15,7 @@ This project presents the full design, implementation, and MATLAB-based simulati
 
 ## 📁 Contents
 
-- 📄 `Report.pdf` – Full technical report with design, cost breakdown, and performance analysis
+- 📄 `Report.pdf` – Full technical report with design, cost breakdown, and performance analysis (written in LaTeX)
 - 🧪 `simulation/` – MATLAB code 
 - 📊 `figures/` – System diagrams and performance visuals
 
