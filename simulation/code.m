@@ -112,3 +112,4 @@ plot(time_vector, grid_import_export * 1000, 'k--', 'DisplayName', 'Grid Interac
 title('Load vs  PV, battery and Grid Interaction ');
 xlabel('Time'); ylabel('Power (W)'); legend; grid on;
 xline(datetime(2025, 5, 26), 'r--', 'May 26th Outage', 'LabelVerticalAlignment', 'middle');
+
